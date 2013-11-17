@@ -1,1 +1,1 @@
-run "touch #{config.current_path}/blarg.test"
+run "touch #{config.release_path}/blarg.test"
